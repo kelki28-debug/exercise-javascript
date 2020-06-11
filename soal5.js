@@ -1,11 +1,16 @@
+let name = 'Ciputra Pangestu';
+let age = 25;
+let address = 'Bekasi';
+let birthDate= '28 Oktober 1994';
+let position= 'Belum Bekerja';
 
 
 let data = {
-    name: 'Ciputra Pangestu',
-    age: 25,
-    address : 'Bekasi',
-   birthDate : '28 Oktober 1994',
-    position : 'Belum Bekerja'
+    name,
+    age,
+    address,
+   birthDate,
+    position 
 }
 
 console.log(data)
